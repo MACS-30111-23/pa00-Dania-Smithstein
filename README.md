@@ -1,25 +1,16 @@
 # PA 00
 
-For this assignment, you will submit TWO files -- the readme and the script file. 
+## My Biography 
 
+**Name:** Dania Carr
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+![Me!](Carr_Dania.jpg)
 
+**Favorite activities:** 
+- Watching football (*go 49ers!*)
+- Trying new restaurants
+- Going thrift shopping 
 
+**LinkedIn**: [My LinkedIn](www.linkedin.com/in/dania-carr-64269419b)
 
-
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://github.com/apps/github-learning-lab)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+**Summary & Reflection**: I know how to use R so I am taking this class to learn Python. I am suprised at how similar using Markdown in Visual Studio is to using Markdown in R Studio. So far, it is as easy (and maybe even easier) than what I am used to. Although, I am still getting used to the basic processes of Visual Studio. I am using GitHub desktop as my workflow, which I have not used before. So far, I think I have it set up and it is working well!
